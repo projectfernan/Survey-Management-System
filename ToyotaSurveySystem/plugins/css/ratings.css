@@ -1,0 +1,153 @@
+input.str[type="radio"]{
+    display: none;
+}
+
+ul.rate {
+    padding: 0;
+    margin: 0;
+}
+
+ul.rate li.star {
+    list-style-type: none;
+    display: inline-block;
+    margin: 5px;
+    color: white;
+    text-shadow: 2px 2px 7px grey;
+    font-size: 25px !important;
+}
+
+ul.rate li.star:hover {
+  color:orange;
+}
+
+/*ul li.active, ul li.secondary-active {
+    color:orange;
+}
+
+.active{
+    color:orange;
+}
+
+.secondary-active {
+    color:orange;
+}*/
+
+ul li.r1.active, ul li.r1.secondary-active {
+    color:orange;
+}
+
+ul li.r2.active, ul li.r2.secondary-active {
+    color:orange;
+}
+
+ul li.r3.active, ul li.r3.secondary-active {
+    color:orange;
+}
+
+ul li.r4.active, ul li.r4.secondary-active {
+    color:orange;
+}
+
+ul li.r5.active, ul li.r5.secondary-active {
+    color:orange;
+}
+
+ul li.r6.active, ul li.r6.secondary-active {
+    color:orange;
+}
+
+ul li.r7.active, ul li.r7.secondary-active {
+    color:orange;
+}
+
+ul li.r8.active, ul li.r8.secondary-active {
+    color:orange;
+}
+
+ul li.r9.active, ul li.r9.secondary-active {
+    color:orange;
+}
+
+ul li.r10.active, ul li.r10.secondary-active {
+    color:orange;
+}
+
+ul li.r11.active, ul li.r11.secondary-active {
+    color:orange;
+}
+
+ul li.r12.active, ul li.r12.secondary-active {
+    color:orange;
+}
+
+ul li.r13.active, ul li.r13.secondary-active {
+    color:orange;
+}
+
+ul li.r14.active, ul li.r14.secondary-active {
+    color:orange;
+}
+
+ul li.r15.active, ul li.r15.secondary-active {
+    color:orange;
+}
+
+ul li.r16.active, ul li.r16.secondary-active {
+    color:orange;
+}
+
+ul li.r17.active, ul li.r17.secondary-active {
+    color:orange;
+}
+
+ul li.r18.active, ul li.r18.secondary-active {
+    color:orange;
+}
+
+ul li.r19.active, ul li.r19.secondary-active {
+    color:orange;
+}
+
+ul li.r20.active, ul li.r20.secondary-active {
+    color:orange;
+}
+
+ul li.r21.active, ul li.r21.secondary-active {
+    color:orange;
+}
+
+ul li.r22.active, ul li.r22.secondary-active {
+    color:orange;
+}
+
+ul li.r23.active, ul li.r23.secondary-active {
+    color:orange;
+}
+
+ul li.r24.active, ul li.r24.secondary-active {
+    color:orange;
+}
+
+ul li.r25.active, ul li.r25.secondary-active {
+    color:orange;
+}
+
+ul li.r26.active, ul li.r26.secondary-active {
+    color:orange;
+}
+
+ul li.r27.active, ul li.r27.secondary-active {
+    color:orange;
+}
+
+ul li.r28.active, ul li.r28.secondary-active {
+    color:orange;
+}
+
+ul li.r29.active, ul li.r29.secondary-active {
+    color:orange;
+}
+
+ul li.r30.active, ul li.r30.secondary-active {
+    color:orange;
+}

@@ -1,0 +1,63 @@
+body{
+    background: #222;
+}
+
+nav.topDes {
+    background: white;
+    padding: 5px;
+    color: red;
+    box-shadow: 2px 2px;
+}
+
+div.TopHead {
+    display: inline-block;
+}
+
+div.container {
+    width: 70%;
+}
+
+div.questions{
+    font-weight: normal;
+    font-size: 17px;
+    background: #D8D8D8;
+}
+
+div.hp {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+div.panel-footer {
+    background: #B40404;
+}
+
+a.btn-social {
+    font-size: 15px;
+}
+
+.center-block{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.inline {
+    display: inline-block;
+}
+
+.warn {
+    color: red;
+}
+
+.modal-dialog.Diag {
+  height: 100%;  
+  position: absolute;
+  top: 230px;
+  right: 0px;
+  bottom: 0;
+  left: 0;
+  z-index: 10040;
+  overflow: auto;
+  overflow-y: auto;
+}
